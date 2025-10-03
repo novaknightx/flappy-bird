@@ -104,5 +104,3 @@ Copyright © 2024
 ✨ *Enjoy playing, and may your high score keep flying!*
 
 ---
-
-Do you want me to make this **clean professional style** (like above) or a **fun casual style** (with emojis, jokes, and gamer vibes)?
